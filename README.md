@@ -1,24 +1,19 @@
 # test-ckeditor
 
-## Project setup
-```
-npm install
-```
+for submit a issue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# step
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. npm install  
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. npm run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. open in Chrome
+
+# you will found errors with Console
+
+1. plugincollection-load
+
+2. TypeError: Cannot read property 'getAttribute' of null
+
+3. Uncaught (in promise) TypeError: Cannot read property 'getAttribute' of null
